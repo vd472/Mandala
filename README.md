@@ -1,2 +1,2 @@
 # Mandala
-Creating a Mandala using SwiftUI
+ A basic Mandala using SwiftUI
